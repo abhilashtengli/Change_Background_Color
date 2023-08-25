@@ -13,4 +13,4 @@ This is a simple web application that allows users to change the background colo
 Here's a quick demo of the application:
 
 <!-- ![Demo](demo.gif) -->
-[Link Text](https://abhilashtengli.github.io/Change_Background_Color/)
+[Link](https://abhilashtengli.github.io/Change_Background_Color/)
